@@ -24,7 +24,7 @@ The current method can search for about 4 minutes, after this the site does not 
 
 If by any chance the script finds there is an available ticket, it beeps *once* and attempts to select the available seat. If there is no red seat selected, it means a bot secured it. 
 
-## Update
+## Findings
 After executing this script for 2 weeks, it was found that tickets do become available but are extremely difficult to secure. A potential hypothesis is that tickets are always taken by scalpers and only purchased after a user buys one on their re-sale webiste. 
 This behaviour was mostly seen in the hours prior to the RM-FCB match. 
 
